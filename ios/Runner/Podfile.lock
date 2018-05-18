@@ -84,13 +84,13 @@ PODS:
     - Flutter
 
 DEPENDENCIES:
-  - firebase_analytics (from `Pods/.symlinks/plugins/firebase_analytics/ios`)
-  - firebase_auth (from `Pods/.symlinks/plugins/firebase_auth/ios`)
-  - firebase_database (from `Pods/.symlinks/plugins/firebase_database/ios`)
-  - firebase_storage (from `Pods/.symlinks/plugins/firebase_storage/ios`)
-  - Flutter (from `Pods/.symlinks/flutter/ios`)
-  - google_sign_in (from `Pods/.symlinks/plugins/google_sign_in/ios`)
-  - image_picker (from `Pods/.symlinks/plugins/image_picker/ios`)
+  - firebase_analytics (from `/Users/Caroline/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-0.0.4/ios`)
+  - firebase_auth (from `/Users/Caroline/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.1.1/ios`)
+  - firebase_database (from `/Users/Caroline/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-0.0.12/ios`)
+  - firebase_storage (from `/Users/Caroline/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-0.0.5/ios`)
+  - Flutter (from `/Users/Caroline/Downloads/flutter/bin/cache/artifacts/engine/ios`)
+  - google_sign_in (from `/Users/Caroline/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-0.3.1/ios`)
+  - image_picker (from `/Users/Caroline/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.1.1/ios`)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
@@ -110,19 +110,19 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   firebase_analytics:
-    :path: Pods/.symlinks/plugins/firebase_analytics/ios
+    :path: "/Users/Caroline/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-0.0.4/ios"
   firebase_auth:
-    :path: Pods/.symlinks/plugins/firebase_auth/ios
+    :path: "/Users/Caroline/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.1.1/ios"
   firebase_database:
-    :path: Pods/.symlinks/plugins/firebase_database/ios
+    :path: "/Users/Caroline/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-0.0.12/ios"
   firebase_storage:
-    :path: Pods/.symlinks/plugins/firebase_storage/ios
+    :path: "/Users/Caroline/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-0.0.5/ios"
   Flutter:
-    :path: Pods/.symlinks/flutter/ios
+    :path: "/Users/Caroline/Downloads/flutter/bin/cache/artifacts/engine/ios"
   google_sign_in:
-    :path: Pods/.symlinks/plugins/google_sign_in/ios
+    :path: "/Users/Caroline/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-0.3.1/ios"
   image_picker:
-    :path: Pods/.symlinks/plugins/image_picker/ios
+    :path: "/Users/Caroline/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.1.1/ios"
 
 SPEC CHECKSUMS:
   Firebase: 4b66b5b59c43edac745b87f0c87e42cdd0279c13
@@ -146,6 +146,6 @@ SPEC CHECKSUMS:
   GTMSessionFetcher: 5fa5b80fd20e439ef5f545fb2cb3ca6c6714caa2
   image_picker: ee00aab0487cedc80a304085219503cc6d0f2e22
 
-PODFILE CHECKSUM: 13dcf421f4da2e937a57e8ba760ed880beae536f
+PODFILE CHECKSUM: 351e02e34b831289961ec3558a535cbd2c4965d2
 
 COCOAPODS: 1.5.0

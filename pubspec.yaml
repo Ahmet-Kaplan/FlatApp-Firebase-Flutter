@@ -1,9 +1,10 @@
-name: flutter_flat_app
+name: Wedfuly_Chat
 description: A new Flutter project.
 
 dependencies:
   flutter:
     sdk: flutter
+
 
 dev_dependencies:
   flutter_test:

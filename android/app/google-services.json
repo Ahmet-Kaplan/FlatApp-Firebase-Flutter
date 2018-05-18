@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "128332576490",
+    "firebase_url": "https://wedfuly-dashboard.firebaseio.com",
+    "project_id": "wedfuly-dashboard",
+    "storage_bucket": "wedfuly-dashboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128332576490:android:f8cb7c5e45c070b2",
+        "android_client_info": {
+          "package_name": "com.wedfuly.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128332576490-1aqu4sam31tjedvctolg5c5glg36fima.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtl8iN2GtDc-IPEtFk6SAylONZt8MW3Tg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

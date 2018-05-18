@@ -5,7 +5,7 @@
 // are correct.
 
 import 'package:flutter/material.dart';
-import 'package:flutter_flat_app/Screens/Login/index.dart';
+import 'package:Wedfuly_Chat/Screens/Login/index.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 

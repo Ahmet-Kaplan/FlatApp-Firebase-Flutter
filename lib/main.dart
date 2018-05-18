@@ -1,4 +1,4 @@
-import 'package:flutter_flat_app/Routes.dart';
+import 'package:Wedfuly_Chat/Routes.dart';
 
 void main() {
   new Routes();

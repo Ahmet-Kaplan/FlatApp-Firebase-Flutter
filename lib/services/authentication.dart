@@ -25,6 +25,7 @@ class UserAuth {
   //To verify new User
   Future<String> verifyUser (UserData userData) async{
     FirebaseAuth firebaseAuth = FirebaseAuth.instance;
+    print("made it");
     await firebaseAuth
         .signInWithEmailAndPassword(email: userData.email, password: userData.password);
     return "Login Successfull";

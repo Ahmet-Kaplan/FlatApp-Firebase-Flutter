@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_flat_app/screens/Login/index.dart';
-import 'package:flutter_flat_app/screens/SignUp/index.dart';
-import 'package:flutter_flat_app/screens/Home/index.dart';
-import 'package:flutter_flat_app/theme/style.dart';
+import 'package:Wedfuly_Chat/screens/Login/index.dart';
+import 'package:Wedfuly_Chat/screens/SignUp/index.dart';
+import 'package:Wedfuly_Chat/screens/Home/index.dart';
+import 'package:Wedfuly_Chat/theme/style.dart';
 
 class Routes {
 

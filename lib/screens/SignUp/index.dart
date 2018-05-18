@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'style.dart';
-import 'package:flutter_flat_app/components/TextFields/inputField.dart';
-import 'package:flutter_flat_app/components/Buttons/textButton.dart';
-import 'package:flutter_flat_app/components/Buttons/roundedButton.dart';
-import 'package:flutter_flat_app/services/validations.dart';
-import 'package:flutter_flat_app/services/authentication.dart';
-import 'package:flutter_flat_app/theme/style.dart';
+import 'package:Wedfuly_Chat/components/TextFields/inputField.dart';
+import 'package:Wedfuly_Chat/components/Buttons/textButton.dart';
+import 'package:Wedfuly_Chat/components/Buttons/roundedButton.dart';
+import 'package:Wedfuly_Chat/services/validations.dart';
+import 'package:Wedfuly_Chat/services/authentication.dart';
+import 'package:Wedfuly_Chat/theme/style.dart';
 
 class SignUpScreen extends StatefulWidget {
   const SignUpScreen({Key key}) : super(key: key);

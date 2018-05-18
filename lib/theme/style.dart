@@ -6,12 +6,12 @@ TextStyle textStyle = const TextStyle(
     fontWeight: FontWeight.normal);
 
 ThemeData appTheme = new ThemeData(
-  hintColor: Colors.white,
+  hintColor: const Color.fromRGBO(46, 55, 89, 1.0),
 );
 
-Color textFieldColor = const Color.fromRGBO(255, 255, 255, 0.1);
+Color textFieldColor = const Color.fromRGBO(52, 88, 99, 0.1);
 
-Color primaryColor = const Color(0xFF00c497);
+Color primaryColor = const Color.fromRGBO(223, 97, 31, 1.0);
 
 TextStyle buttonTextStyle = const TextStyle(
     color: const Color.fromRGBO(255, 255, 255, 0.8),

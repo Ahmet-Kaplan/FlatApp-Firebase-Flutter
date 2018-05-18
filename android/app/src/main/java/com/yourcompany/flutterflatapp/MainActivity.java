@@ -1,4 +1,4 @@
-package com.yourcompany.flutterflatapp;
+package com.wedfuly.chatapp;
 
 import android.os.Bundle;
 

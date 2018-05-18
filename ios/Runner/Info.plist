@@ -10,9 +10,9 @@
              <key>CFBundleURLSchemes</key>
              <array>
              <!-- reverse url of your client id, for example: -->
-    <string>com.googleusercontent.apps.284876987503-g6go45ksnj5r4uv4k9lschjlshpmbsh4</string>
+    <string>com.googleusercontent.apps.128332576490-4ebai1lsrq8vjisi34p55nnrld5c5bfc</string>
              <!-- bundle id, for example: -->
-                <string>com.yourcompany.flutterFlatApp</string>
+                <string>com.wedfuly.chatapp</string>
              </array>
           </dict>
       </array>
@@ -25,7 +25,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>flutter_flat_app</string>
+	<string>wedfuly_chat_app</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
